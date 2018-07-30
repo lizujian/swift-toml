@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = "SwiftToml"
-  s.version     = "v1.0.0"
+  s.version     = "1.0.0"
   s.summary     = "SwiftToml is a TOML parser written in the swift language. TOML is an intuitive configuration file format that is designed to be easy for humans to read and computers to parse."
   s.homepage    = "https://github.com/lizujian/swift-toml"
   s.license     = { :type => "Apache License 2.0" }
